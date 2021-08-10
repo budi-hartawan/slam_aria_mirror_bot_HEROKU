@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "geometric-shore-322116",
+  "private_key_id": "9156b6922986b56e5d2e1e82a69972524d3cae30",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrL9HrE0vym58N\nBpgFtp4A/6LxkiBMcCm7Q1WJMlhINCwqcvz4ORHNnqTjJOMYO/2XRsx77J8tTYw2\n6FQ77U37FL0pIClpWPszwol134dY1pW5Gzcq2tuWaUAFkyCMNUCoqNNzkGf2Jcyx\naddBu/Q0adMv2R2zrplRAeJomhaK1ef3/sU8e4uGdo2mzUjAZG21OxS1zDorquip\nSWc4IPdwXQrA5sJenYP2XDPJQ3aANT7ptRhzGExjvXsnqVjEPevpFXWlwjTbQBgz\nPhkMVMgOXHJCo5A4GYeeg9nUmhUkknCjiYHiLU0jdWQmEzhhc1wXzn4onqmpPZjv\n8Mq1ALaJAgMBAAECggEAN0hzrctnCPvJ0w6QlLPDdgYYbJQouxaz22Zk3rA0A2lZ\n5AGLgWwIvFMh47r7Xc2t2SdDjTe+tgYnpGnGHi5GMzIg3oGk7gEO6snF05uy3XU7\nF/Laj4vrQzlNNB+t8KmX7n/K/bSiZkMRxi+slO1qcWzFh1vB9E+L8rW9lNNCOWZQ\n08q2V5rC+cgiGipg2NsJyRkySxdz41njxCFZSsuOcS6K6XzxmZ8uAnDVEh+8KvLb\nP6QzeYTfyTg7BvvIjz5j/7SDBa3ma6o38vrcWPkW9aH+Y8Si1GQscQTKnVStcc7p\nQj4Yg7jklXOz9KwVm4WOy8SQz4uPhwi4Y2HAF6sTuwKBgQDRmX0G0+nrjGC1wco7\nno83kbiXl27JqjF4VfLSu5cvSpY0nZGUeKDqFqgnnhbQHlkpWokf3WnzI52AQ7uJ\n//I+Z9fqxhnKGAVC5FKlAjqzIRbFQ8aSAhvirQGyviO/BxoSGz3jdAGFBz+Ccv0O\nuKRVo2oIzz06zLWZUjzLSi/MpwKBgQDRFWM+J1XYy8mhK35zpYtrd5TPHK/Pximi\nw7TDq4/q48CbJZQHEf/rdUNI9Mzoomb3B5jwpbEK06Nd6+iKGuVEL6qsZQhHz6y1\nAqJhCHUmuqPYxdsUqQVn3qeG4NzQaLzTABM4LN+UuS9ypOdimtSAMCsLiloJH4bH\nHA83y+HZTwKBgQCXVcJvJpz0JMRDF6wEBgUUM1PbqEwmsYrMfwo3W5jaXXk8fjR5\nxesxebBqAnwoQnFQKX1uk3iHRETZMo57ImDu7B169xPx1gwecyq013o4kgCV58y8\n6Wbm8NGUFDNNHzyUrDSwQLdELKqPbqUGdwy4hKfvumpURTAthrI8edEvawKBgHwP\ny8ZqgrbUHPzkGPE4DmUjHIpUREHuHHB23cCpAQloQLYOcypK1Ob6uoUEtL1o992m\nhWptdoKtF6e4PlAMK3PtMMGAZYxuvtTdDkqzQQhNAMG0jQ1SSWHbrN4MeRm0vC4b\nQkw33CacR3ooPR+2LVcuvavoWQpGyatFjAYYlRdjAoGAJJPlOPIzSwz/LRYgwsPM\ndD2ED6eU0JUmYmNsBtjg2af2ij9hOqVvAbPNy0arYk9lRwwNKAHKThmB8oadJVnl\na9gd4oPKAz4A/WAFsrFId02HHcda2yQ38Kgawlgd+TuQNZgnXvf/b0BHYQiAk4Hk\nAkuxrTPbgkCqFsfJay453vo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-rxstjnp89bclqkndtk3jv656k2@geometric-shore-322116.iam.gserviceaccount.com",
+  "client_id": "107434014324013063147",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-rxstjnp89bclqkndtk3jv656k2%40geometric-shore-322116.iam.gserviceaccount.com"
+}
